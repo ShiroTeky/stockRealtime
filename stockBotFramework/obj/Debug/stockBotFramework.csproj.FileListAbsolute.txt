@@ -1,0 +1,47 @@
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Bot Application1.dll.config
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Bot Application1.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Bot Application1.pdb
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Autofac.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Chronic.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\DataCore.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\DataService.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Microsoft.Bot.Builder.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Microsoft.Bot.Connector.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Microsoft.Rest.ClientRuntime.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Microsoft.WindowsAzure.Configuration.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Newtonsoft.Json.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\System.IdentityModel.Tokens.Jwt.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\System.Net.Http.Formatting.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\System.Web.Http.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\System.Web.Http.WebHost.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\DapperLayer.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Dapper.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\DataCore.pdb
+G:\Workshop\stockBotFramework\stockBotFramework\bin\DataService.pdb
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Autofac.xml
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Microsoft.Bot.Builder.xml
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Microsoft.Bot.Connector.xml
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Microsoft.Rest.ClientRuntime.xml
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Microsoft.WindowsAzure.Configuration.xml
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Newtonsoft.Json.xml
+G:\Workshop\stockBotFramework\stockBotFramework\bin\System.IdentityModel.Tokens.Jwt.pdb
+G:\Workshop\stockBotFramework\stockBotFramework\bin\System.IdentityModel.Tokens.Jwt.xml
+G:\Workshop\stockBotFramework\stockBotFramework\bin\System.Net.Http.Formatting.xml
+G:\Workshop\stockBotFramework\stockBotFramework\bin\System.Web.Http.xml
+G:\Workshop\stockBotFramework\stockBotFramework\bin\System.Web.Http.WebHost.xml
+G:\Workshop\stockBotFramework\stockBotFramework\bin\DapperLayer.pdb
+G:\Workshop\stockBotFramework\stockBotFramework\bin\Dapper.xml
+G:\Workshop\stockBotFramework\stockBotFramework\bin\ar\Microsoft.Bot.Builder.resources.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\en\Microsoft.Bot.Builder.resources.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\es\Microsoft.Bot.Builder.resources.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\fa\Microsoft.Bot.Builder.resources.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\fr\Microsoft.Bot.Builder.resources.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\ja\Microsoft.Bot.Builder.resources.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\ru\Microsoft.Bot.Builder.resources.dll
+G:\Workshop\stockBotFramework\stockBotFramework\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+G:\Workshop\stockBotFramework\stockBotFramework\obj\Debug\stockBotFramework.csprojResolveAssemblyReference.cache
+G:\Workshop\stockBotFramework\stockBotFramework\obj\Debug\Bot Application1.dll
+G:\Workshop\stockBotFramework\stockBotFramework\obj\Debug\Bot Application1.pdb

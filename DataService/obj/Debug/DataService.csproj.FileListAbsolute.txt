@@ -1,0 +1,11 @@
+G:\Workshop\stockBotFramework\DataService\bin\Debug\DataService.dll
+G:\Workshop\stockBotFramework\DataService\bin\Debug\DataService.pdb
+G:\Workshop\stockBotFramework\DataService\bin\Debug\DapperLayer.dll
+G:\Workshop\stockBotFramework\DataService\bin\Debug\DataCore.dll
+G:\Workshop\stockBotFramework\DataService\bin\Debug\Dapper.dll
+G:\Workshop\stockBotFramework\DataService\bin\Debug\DapperLayer.pdb
+G:\Workshop\stockBotFramework\DataService\bin\Debug\DataCore.pdb
+G:\Workshop\stockBotFramework\DataService\bin\Debug\Dapper.xml
+G:\Workshop\stockBotFramework\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+G:\Workshop\stockBotFramework\DataService\obj\Debug\DataService.dll
+G:\Workshop\stockBotFramework\DataService\obj\Debug\DataService.pdb

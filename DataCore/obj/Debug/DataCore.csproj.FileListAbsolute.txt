@@ -1,0 +1,5 @@
+G:\Workshop\stockBotFramework\DataCore\bin\Debug\DataCore.dll
+G:\Workshop\stockBotFramework\DataCore\bin\Debug\DataCore.pdb
+G:\Workshop\stockBotFramework\DataCore\obj\Debug\DataCore.csprojResolveAssemblyReference.cache
+G:\Workshop\stockBotFramework\DataCore\obj\Debug\DataCore.dll
+G:\Workshop\stockBotFramework\DataCore\obj\Debug\DataCore.pdb

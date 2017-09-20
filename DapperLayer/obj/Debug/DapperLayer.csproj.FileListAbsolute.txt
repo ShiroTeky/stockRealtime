@@ -1,0 +1,10 @@
+G:\Workshop\stockBotFramework\DapperLayer\bin\Debug\DapperLayer.dll.config
+G:\Workshop\stockBotFramework\DapperLayer\bin\Debug\DapperLayer.dll
+G:\Workshop\stockBotFramework\DapperLayer\bin\Debug\DapperLayer.pdb
+G:\Workshop\stockBotFramework\DapperLayer\bin\Debug\Dapper.dll
+G:\Workshop\stockBotFramework\DapperLayer\bin\Debug\DataCore.dll
+G:\Workshop\stockBotFramework\DapperLayer\bin\Debug\DataCore.pdb
+G:\Workshop\stockBotFramework\DapperLayer\bin\Debug\Dapper.xml
+G:\Workshop\stockBotFramework\DapperLayer\obj\Debug\DapperLayer.csprojResolveAssemblyReference.cache
+G:\Workshop\stockBotFramework\DapperLayer\obj\Debug\DapperLayer.dll
+G:\Workshop\stockBotFramework\DapperLayer\obj\Debug\DapperLayer.pdb
